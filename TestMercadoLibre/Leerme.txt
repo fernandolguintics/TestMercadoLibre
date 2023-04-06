@@ -1,0 +1,6 @@
+Pasos para correr el programa:
+
+1.Descomprima el archivo TestMercadoLibre.zip.
+2.Importe el proyecto al IDE de eclipse o netbeans.
+3.Ingrese a la ruta src/test/java y abra el paquete com.project.pom con los archivos del programa.
+4.Ejecute la el archivo ImprimirProductosTest como prueba de JUnit.
